@@ -2,6 +2,14 @@
 
 This is a small business template built with [Victor Hugo](https://github.com/netlify/victor-hugo) and [Netlify CMS](https://github.com/netlify/netlify-cms), designed and developed by [Darin Dimitroff](http://www.darindimitroff.com/), [spacefarm.digital](https://www.spacefarm.digital).
 
+# Core Maintainers - Sponsoring companies
+
+This project is maintained for free by these people using both their free time and their company work time.
+
+Jeremy LEPLU (Twitter @jleplu) from [Netary](https://netary.fr)
+
+Joel Capitao from [Netary](https://netary.fr)
+
 ## Getting started
 
 Use our deploy button to get your own copy of the repository. 
